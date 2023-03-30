@@ -1,0 +1,87 @@
+.card{
+  width: 400px;
+  border: none;
+  border-radius: 10px;
+
+  background-color: #fff;
+}
+
+
+
+.stats{
+
+      background: #f2f5f8 !important;
+
+    color: #000 !important;
+}
+.articles{
+  font-size:10px;
+  color: #a1aab9;
+}
+.number1{
+  font-weight:500;
+}
+.followers{
+    font-size:10px;
+  color: #a1aab9;
+
+}
+.number2{
+  font-weight:500;
+}
+.rating{
+    font-size:10px;
+  color: #a1aab9;
+}
+.number3{
+  font-weight:500;
+}
+
+.campos{
+  display: inline-block;
+  margin-bottom: 3px;
+}
+
+.textarea {
+  width: 100%;
+  height: 150px;
+  padding: 12px 20px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  background-color: #f8f8f8;
+  font-size: 16px;
+  resize: none;
+  max-width: 600px;
+  max-height: 300px;
+  margin-top: 7px;
+  margin-left: 45px;
+}
+.title{
+  width: 100%;
+  font-size: 20px;
+  font-weight: 500;
+  color: #000;
+  margin-bottom: 10px;
+  max-width: 600px;
+  max-height: 600px;
+}
+
+textarea {
+  resize: none;
+}
+
+.post{
+
+  display: inline;
+}
+
+.button{
+  margin-left: 45px;
+}
+
+.meupost {
+  background: #dddddd !important;
+  border-radius: 4px;
+  
+}
